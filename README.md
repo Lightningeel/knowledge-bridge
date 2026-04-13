@@ -1,7 +1,7 @@
 # knowledge-bridge
 
 
-Prevent repeated engineering mistakes using persistent memory.
+Prevent repeated engineering mistakes and tackles the tribal knowledge gap—the missing context that leads teams to repeat the same mistake using persistent memory.
 
 ## The Problem
 

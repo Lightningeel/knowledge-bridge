@@ -1,0 +1,43 @@
+# Core
+python-dotenv
+pydantic
+
+# API / backend
+fastapi
+uvicorn
+
+# LLM + RAG
+openai
+langchain
+tiktoken
+
+# Embeddings / vector search
+faiss-cpu
+sentence-transformers
+
+# Data handling
+numpy
+pandas
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Async / HTTP
+httpx
+
+# Logging
+loguru
+
+# Streaming / events
+kafka-python
+
+# Graph memory (optional)
+networkx
+
+# Observability
+prometheus-client
+
+# Background tasks
+celery
+redis

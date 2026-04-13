@@ -1,4 +1,4 @@
-# knowledge-bridge
+# Tribal custodian
 
 
 Prevent repeated engineering mistakes and tackles the tribal knowledge gap—the missing context that leads teams to repeat the same mistake using persistent memory.
